@@ -1,0 +1,3 @@
+//install node.js
+// 
+npm i typescript ts-node express node @types/express @types/node nodemon @types/nodemon
